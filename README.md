@@ -1,4 +1,4 @@
-# 🤖 IA para Eficiência Operacional e Suporte Técnico (Nível 1)
+# 🤖 IA para Eficiência Operacional e Suporte Técnico Para o Operador de Máquinas Industriais
 
 ### **Arquitetura de Agentes para Autonomia Industrial**
 
